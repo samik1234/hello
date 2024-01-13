@@ -2,7 +2,7 @@ Well, in this HTML project, you'll create a digital business card.
 
 While this might seem simple, it’s actually a solid step up in complexity.
 
-
+Here’s what you can expect to learn from this code:
 
 This is because you’ll be using more advanced CSS to style and position elements by getting to grips with the Flexbox layout model.
 Flexbox: Learn how to use Flexbox for creating flexible and responsive layouts that work on different screen sizes
